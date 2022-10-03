@@ -1,4 +1,4 @@
-<h1>Hi, I'm Eduardo! <br/><a href="https://github.com/ediazvalle">
+<h1>Hi, I'm Eduardo! </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
