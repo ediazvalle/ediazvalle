@@ -4,7 +4,7 @@
 <ul>
 <li>Pirate Crew: A MERN website that makes a profile about pirates</li>
 <li>TV Shows: A website in JAVA using spring where users post TV show rating and see others ratings too.</li>
-<li>Sasquatch sigtings: A python website using flask where users post their sasquatch sigtings and look at other users sigthing too.</li>
+<li>Sasquatch sightings: A python website using flask where users post their sasquatch sigtings and look at other users sightings too.</li>
 </ul>
 
 <h2> Certifications </h2>
